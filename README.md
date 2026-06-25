@@ -81,7 +81,7 @@ Business Questions Solved
 
 ## Dashboard Preview
 
-![Dashboard](camera/Book_store dashboard.png)
+![Dashboard](camera/book_store_dashboard.png)
 
 ## Tools Used
 - PostgreSQL
