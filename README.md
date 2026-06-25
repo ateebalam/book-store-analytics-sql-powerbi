@@ -77,8 +77,20 @@ Business Questions Solved
 - Revenue Analysis
 - Author Performance Analysis
 
+# Book Store Analytics Dashboard
+
+## Dashboard Preview
+
+![Dashboard](
+
+## Tools Used
+- PostgreSQL
+- SQL
+- Power BI
+
 Author
 
 Ateeb Alam
 
 Aspiring Data Analyst
+
